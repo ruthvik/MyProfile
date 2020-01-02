@@ -1,2 +1,0 @@
-# MyProfile
-Created with CodeSandbox
